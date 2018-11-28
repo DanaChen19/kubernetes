@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.12.3 
-MAINTAINER shayu
+FROM k8s.gcr.io/kube-controller-manager:v1.12.3 
+MAINTAINER zheng3345
